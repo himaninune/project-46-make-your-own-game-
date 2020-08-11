@@ -1,1 +1,2 @@
-# project-46-make-your-own-game-
+# p5.play-boilerplate
+Boiler plate for p5.play
